@@ -51,9 +51,9 @@ html {
      font-size: 14px; // change to whatever
    }
 
-  */
    @include breakpoint($x-large) {
      font-size: 0.9rem; // change to whatever
    }
+  */
    
 }
