@@ -1,3 +1,22 @@
+# This repository is
+Branch of upstream of Minimal Mistakes.
+
+## Changes from upstream
+- Changed font-size to fit Japanese characters.
+- Enabled mermaid using Javascript, so that this theme can be used in Github pages.
+
+
+
+
+
+
+
+
+
+
+
+
+
 # [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
