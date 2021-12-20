@@ -9,5 +9,7 @@ Thank you.
        startOnLoad:true,
        theme: 'default'
    });
-   window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
+   window.addEventListener("load", function() {
+     window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
+   });
 </script>
