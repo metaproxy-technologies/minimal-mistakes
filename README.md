@@ -1,7 +1,7 @@
 # This repository is
-Branch of upstream of Minimal Mistakes.
+Branch of Minimal Mistakes.
 
-## Changes from upstream
+## Changes on this branch.
 - Changed font-size to fit Japanese characters.
 - Enabled mermaid using Javascript, so that this theme can be used in Github pages.
 
@@ -12,8 +12,11 @@ Branch of upstream of Minimal Mistakes.
 
 
 
+## ----------------- original readme follows:  -----------
 
-## ----------------- original readme is below: -----------
+## ----------------- original readme follows:  -----------
+
+## ----------------- original readme follows:  -----------
 
 
 
